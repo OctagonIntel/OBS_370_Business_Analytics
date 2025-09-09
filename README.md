@@ -38,12 +38,5 @@ We developed an **interactive Power BI dashboard** to visualize key metrics, unc
 
 ---
 
-## How to Use
-1. Open the Power BI file (`.pbix`) in **Power BI Desktop**.  
-2. Interact with filters (province, municipality) to explore workforce data.  
-3. Review exported visuals in the `exports/` folder for quick insights.  
-
----
-
 ## Notes
 - This project was developed in an academic context, but the methods and dashboards demonstrate practical **business analytics and BI reporting skills** relevant for industry use.
